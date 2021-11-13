@@ -1,3 +1,6 @@
+import java.util.Scanner;
+
+
 public class koncentricni_kvadrat {
 
   public static void main(String[] args){
