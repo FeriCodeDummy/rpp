@@ -1,3 +1,6 @@
+import java.util.Scanner;
+
+
 public class logicne_vrednosti {
 
   public static void main(String [] args){
