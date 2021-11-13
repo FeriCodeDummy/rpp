@@ -1,3 +1,6 @@
+import java.util.Scanner;
+
+
 public class vsota_cifer{
   public static void main (String [] args){
       int vsota = 0;
