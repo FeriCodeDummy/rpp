@@ -1,7 +1,12 @@
+import java.util.Scanner;
+
+
 public class pescena_ura{
 
   public static void main(String [] args){
-    
+      Scanner scanner = new Scanner(System.in);
+      int visina = scanner.nextInt();
+      int pesek = scanner.nextInt();
       // repeat is not in-build but custom method!
         String symbol = " "; // Symbol for filling sand hour
         System.out.println(repeat(visina*2, "0")); // Print first line
