@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class drugo_najvecje_stevilo {
    public static void main(String [] args){
      int y=0, z=0, temp=0; // z is higherst value, y is second highest value, temp is a temporary value used for saving
