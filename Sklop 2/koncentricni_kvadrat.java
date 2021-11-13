@@ -48,5 +48,9 @@ public class koncentricni_kvadrat {
     }
     
   }
+public static String repeat(int repeat, String s){
+
+        return new String(new char[repeat]).replace("\0", s);
+    }
 
 }
