@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class zmnozek_ekstremov {
 
   public static void main(String[] args) {
