@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class astrolosko_znamenje {
 
   public static void main(String [] args){
