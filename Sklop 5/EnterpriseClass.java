@@ -37,7 +37,7 @@ public class EnterpriseClass {
 
 	public void izpisivse(){
 		for (String[] data : countries){
-			izpis(data);
+			izpis(Arrays.toString(data));
 		}
 	}
 
