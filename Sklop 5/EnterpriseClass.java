@@ -4,8 +4,6 @@ public class EnterpriseClass {
 	String country;
 	String subcountry;
 	String geonameid;
-	static String[][] countries;
-
 
 	public EnterpriseClass(String[] data) {
 		this.name= data[0];
@@ -35,11 +33,7 @@ public class EnterpriseClass {
 		return subcountry;
 	}
 
-	public void izpisivse(){
-		for (String[] data : countries){
-			izpis(data);
-		}
-	}
+
 
 	@Override
 	public String toString() {
